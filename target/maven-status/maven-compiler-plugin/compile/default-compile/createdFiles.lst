@@ -1,1 +1,5 @@
 cl\duoc\bn\picking\Application.class
+cl\duoc\bn\picking\model\ItemPicking.class
+cl\duoc\bn\picking\repository\DespachoRepository.class
+cl\duoc\bn\picking\model\Despacho.class
+cl\duoc\bn\picking\model\EstadoDespacho.class
