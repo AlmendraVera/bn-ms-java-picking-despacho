@@ -1,4 +1,6 @@
 C:\Users\almen\bn-ms-java-picking-despacho\src\main\java\cl\duoc\bn\picking\Application.java
+C:\Users\almen\bn-ms-java-picking-despacho\src\main\java\cl\duoc\bn\picking\exception\ApiException.java
+C:\Users\almen\bn-ms-java-picking-despacho\src\main\java\cl\duoc\bn\picking\exception\ManejadorExcepciones.java
 C:\Users\almen\bn-ms-java-picking-despacho\src\main\java\cl\duoc\bn\picking\model\Despacho.java
 C:\Users\almen\bn-ms-java-picking-despacho\src\main\java\cl\duoc\bn\picking\model\EstadoDespacho.java
 C:\Users\almen\bn-ms-java-picking-despacho\src\main\java\cl\duoc\bn\picking\model\ItemPicking.java
